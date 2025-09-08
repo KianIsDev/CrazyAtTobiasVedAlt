@@ -1,0 +1,15 @@
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/bin/Debug/net8.0/otherProject
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/bin/Debug/net8.0/otherProject.deps.json
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/bin/Debug/net8.0/otherProject.runtimeconfig.json
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/bin/Debug/net8.0/otherProject.dll
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/bin/Debug/net8.0/otherProject.pdb
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.GeneratedMSBuildEditorConfig.editorconfig
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.AssemblyInfoInputs.cache
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.AssemblyInfo.cs
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.csproj.CoreCompileInputs.cache
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.sourcelink.json
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.dll
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/refint/otherProject.dll
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.pdb
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/otherProject.genruntimeconfig.cache
+/root/TVA/CrazyAtTobiasVedAlt/otherProject/obj/Debug/net8.0/ref/otherProject.dll
