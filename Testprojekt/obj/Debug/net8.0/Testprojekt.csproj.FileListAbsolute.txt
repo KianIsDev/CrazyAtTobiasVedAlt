@@ -1,0 +1,15 @@
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/bin/Debug/net8.0/Testprojekt
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/bin/Debug/net8.0/Testprojekt.deps.json
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/bin/Debug/net8.0/Testprojekt.runtimeconfig.json
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/bin/Debug/net8.0/Testprojekt.dll
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/bin/Debug/net8.0/Testprojekt.pdb
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.GeneratedMSBuildEditorConfig.editorconfig
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.AssemblyInfoInputs.cache
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.AssemblyInfo.cs
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.csproj.CoreCompileInputs.cache
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.sourcelink.json
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.dll
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/refint/Testprojekt.dll
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.pdb
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/Testprojekt.genruntimeconfig.cache
+/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/Debug/net8.0/ref/Testprojekt.dll
