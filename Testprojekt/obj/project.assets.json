@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/tobia/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/Testprojekt.csproj",
+      "projectUniqueName": "/root/TVA/CrazyAtTobiasVedAlt/Testprojekt/Testprojekt.csproj",
       "projectName": "Testprojekt",
-      "projectPath": "/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/Testprojekt.csproj",
-      "packagesPath": "/home/tobia/.nuget/packages/",
-      "outputPath": "/home/tobia/CrazyAtTobiasVedAlt/Testprojekt/obj/",
+      "projectPath": "/root/TVA/CrazyAtTobiasVedAlt/Testprojekt/Testprojekt.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/root/TVA/CrazyAtTobiasVedAlt/Testprojekt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tobia/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/var/snap/dotnet/common/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
